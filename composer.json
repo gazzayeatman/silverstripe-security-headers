@@ -11,7 +11,7 @@
     "require": {
         "php": ">=8.3",
         "composer/installers": "*",
-        "silverstripe/framework": "^4"
+        "silverstripe/framework": "^4 | ^5"
     },
     "autoload": {
         "psr-4": {
